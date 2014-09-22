@@ -4,6 +4,7 @@ Okay cool. So this is a place where I can do my homework.
 
 Exercises in Chapter 3 Litvin:
 
+
 "1." Mark true or false and explain:
 
 a) The name of a class in Java must be the same as the name of its source file (excluding the extension .java).
@@ -22,6 +23,7 @@ c) The import statement tells the compiler which other classes use this class.
 
 False - The import statement tells the compiler which other classes to look for that are used in the class of the
 program at hand. 
+
 
 "4." Mark true or false and explain:
 
@@ -46,6 +48,7 @@ e) When an object is created, the program always calls its init method.
 False - The init() method is used when applet is launched in the browser and many programs don't use the init method
 at all
 
+
 "5." The following are benefits of encapsulation.
 
 1) The fields of a class can be changed by the programmer and the whole project won't be affected as long as the 
@@ -63,7 +66,9 @@ public Location(int r, int c)
         col = c;
     }
 
+
 "11." See BookProgram.java
+
 
 "14." Mark True or False:
 
@@ -73,7 +78,8 @@ True - A sublcass does inherit all the fields and public methods, but not the co
 
 b) False - Constructors are not inherited from the superclass. The subclass must provide its own. 
 
-16. Which of the following assignment statements wil compile without errors?
+
+"16." Which of the following assignment statements wil compile without errors?
 
 a) Actor alice1 = new Actor(); Will compile because you can make another actor within the superclass Actor.
 
