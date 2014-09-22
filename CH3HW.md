@@ -3,8 +3,7 @@ M.GatesAPComputerScience
 Okay cool. So this is a place where I can do my homework.
 
 Exercises in Chapter 3 Litvin:
-
-
+  
 "1." Mark true or false and explain:
 
 a) The name of a class in Java must be the same as the name of its source file (excluding the extension .java).
