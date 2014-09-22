@@ -4,7 +4,7 @@ Okay cool. So this is a place where I can do my homework.
 
 Exercises in Chapter 3 Litvin:
 
-1. Mark true or false and explain:
+"1." Mark true or false and explain:
 
 a) The name of a class in Java must be the same as the name of its source file (excluding the extension .java).
 
@@ -23,7 +23,7 @@ c) The import statement tells the compiler which other classes use this class.
 False - The import statement tells the compiler which other classes to look for that are used in the class of the
 program at hand. 
 
-4. Mark true or false and explain:
+"4." Mark true or false and explain:
 
 a) Fields of a class are usually declared "private".
 
@@ -46,7 +46,7 @@ e) When an object is created, the program always calls its init method.
 False - The init() method is used when applet is launched in the browser and many programs don't use the init method
 at all
 
-5. The following are benefits of encapsulation.
+"5." The following are benefits of encapsulation.
 
 1) The fields of a class can be changed by the programmer and the whole project won't be affected as long as the 
 public methods and constructors work the same as before. 
@@ -56,16 +56,16 @@ actually giving them the implementation details. This facilitates team work and 
 
 3) Encapsulated classes are easier to maintain, document, and reuse. 
 
-7. According to the source r is for row and c is for column. This is a copy of the source code:
+"7." According to the source r is for row and c is for column. This is a copy of the source code:
 public Location(int r, int c)
     {
         row = r;
         col = c;
     }
 
-11. See BookProgram.java
+"11." See BookProgram.java
 
-14. Mark True or False:
+"14." Mark True or False:
 
 a) A subclass inherits all the fields and public methods of is superclass.
 
