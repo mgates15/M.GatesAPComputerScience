@@ -92,9 +92,9 @@ d) Bug bob1 = new Actor(); Will not compile because Bug is a subclass of Actor.
 e) Flower rose1 = new Actor(); Will not compile because Flower is a subclass of Actor.
                                 Stated error in program "Cannot convert from Actor to Flower"
 
-f) Flower rose2 = newFlower(Color.RED); Will not compile because there is no defined method "newFlower(Color)"
+f) Flower rose2 = newFlower(Color.RED); Will not compile because newFlower(Color) is not defined within type.
 
-g) BoxBug boxy1 = new Boxbug(); Will compile because it is from class to class.
+g) BoxBug boxy1 = new BoxBug(); Will compile because it is from class to class.
 
 h) BoxBug boxy2 = new BoxBug(5); Will compile because it is from class to class. The only difference from the previous 
                                   is that there is a variable, which in this case is valid. 
